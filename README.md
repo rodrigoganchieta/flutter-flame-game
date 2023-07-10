@@ -1,4 +1,4 @@
-# flutter_flame_game
+# flutter_flame_game_codelabs
 
 A new Flutter project.
 
